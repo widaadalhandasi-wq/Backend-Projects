@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EitityFramwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcad269ec7f9410225a6a42dbc884de57eb4ba50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f7b584b9217f3a9689c64b7bd09d3a44dbf901e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EitityFramwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EitityFramwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

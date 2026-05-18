@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace EitityFramwork
 {
-   public class courses
+    public class Department
     {
-        public int id { get; set; }
-        public int count { get; set; }
-        public string CourseName { get; set; }
-
+        public int Id { get; set; }
+        public string DeptName { get; set; }
         public List<student> ? Students { get; set; }
     }
 }

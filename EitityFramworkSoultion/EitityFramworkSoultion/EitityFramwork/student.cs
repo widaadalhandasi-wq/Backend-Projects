@@ -11,5 +11,14 @@ namespace EitityFramwork
         public int id {  get; set; }
         public string name {  get; set; }
         public int age {  get; set; }
+
+        // One-to-One
+        public Passport ? Passport { get; set; }
+
+        // One-to-Many
+        public Department ? Department { get; set; }
+
+        // Many-to-Many
+        public List<courses> ? Courses { get; set; } = new List<courses>();
     }
 }

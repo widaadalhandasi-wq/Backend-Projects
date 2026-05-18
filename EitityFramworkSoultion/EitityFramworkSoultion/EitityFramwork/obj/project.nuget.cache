@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GmszwrawniE=",
+  "dgSpecHash": "D3y29r1OZB4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\EitityFramwork.csproj",
+  "projectFilePath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Entity framwork Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\EitityFramwork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\widaa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\widaa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\EitityFramwork.csproj",
+      "projectUniqueName": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Entity framwork Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\EitityFramwork.csproj",
       "projectName": "EitityFramwork",
-      "projectPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\EitityFramwork.csproj",
+      "projectPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Entity framwork Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\EitityFramwork.csproj",
       "packagesPath": "C:\\Users\\widaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\obj\\",
+      "outputPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Entity framwork Soultion\\EitityFramworkSoultion\\EitityFramworkSoultion\\EitityFramwork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
