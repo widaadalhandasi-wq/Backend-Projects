@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "project01/1.0.0": {
+        "runtime": {
+          "project01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "project01/1.0.0": {
+        "runtime": {
+          "project01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 841c075925cb6227d979a0b25f92d31880cd5bb7
+}
